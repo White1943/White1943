@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
-  pull_request_target:
+
   workflow_dispatch:
 jobs:
   update-readme:
@@ -17,3 +17,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_DAYS_OF_WEEK: "TRUE"
           SHOW_PROJECTS: "TRUE"
+          SHOW_PROFILE_VIEWS："false"
