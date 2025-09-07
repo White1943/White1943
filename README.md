@@ -40,17 +40,16 @@ Sunday                   258 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AutoHearthStone          52 mins             ████████████████░░░░░░░░░   62.11 % 
-ML-For-Beginners         32 mins             █████████░░░░░░░░░░░░░░░░   37.89 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -70,5 +69,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/White1943/White1943/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 18:44:41 UTC
+ Last Updated on 07/09/2025 18:41:42 UTC
 <!--END_SECTION:waka-->
