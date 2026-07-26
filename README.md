@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C412%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C414%20hrs%2017%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 185 Contributions in the Year 2026
+> 🏆 186 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -16,9 +16,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                844 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-🌆 Daytime                1660 commits        ████████████░░░░░░░░░░░░░   47.76 % 
-🌃 Evening                823 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+🌞 Morning                844 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+🌆 Daytime                1661 commits        ████████████░░░░░░░░░░░░░   47.77 % 
+🌃 Evening                823 commits         ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
 🌙 Night                  149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -27,10 +27,10 @@
 Monday                   711 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 Tuesday                  598 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
 Wednesday                566 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Thursday                 644 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Thursday                 644 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
 Friday                   503 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 Saturday                 146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Sunday                   308 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Sunday                   309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 ```
 
 
@@ -40,25 +40,26 @@ Sunday                   308 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 22 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   36.28 % 
-Python                   21 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   34.50 % 
-Other                    6 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Bash                     6 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-JSON                     3 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Markdown                 21 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   37.77 % 
+Python                   18 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   33.09 % 
+Other                    6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Bash                     5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+JSON                     2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-VS Code                  61 hrs 30 mins      ████████████████████████░   97.63 % 
-Obsidian                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+VS Code                  54 hrs 46 mins      ████████████████████████░   96.71 % 
+Obsidian                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Visual                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🐱‍💻 Projects: 
-omniretrieve             42 hrs 56 mins      █████████████████░░░░░░░░   68.17 % 
-msearch                  17 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-obsidian                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-job_note_shopee          38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-aigc_rti_wf              33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+omniretrieve             43 hrs 18 mins      ███████████████████░░░░░░   76.45 % 
+msearch                  9 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+obsidian                 2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+job_note_shopee          38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+aigc_rti_wf              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Mac                      62 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      56 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,5 +79,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/White1943/White1943/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:43:26 UTC
+ Last Updated on 26/07/2026 19:44:29 UTC
 <!--END_SECTION:waka-->
