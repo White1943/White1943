@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C293%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C300%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-298%20hrs%2045%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,46 +42,46 @@ Sunday                   312 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 25 hrs 34 mins      ████████████░░░░░░░░░░░░░   49.41 % 
-Python                   11 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-Other                    7 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-TypeScript               2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Bash                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown                 27 hrs 1 min        ████████████░░░░░░░░░░░░░   49.12 % 
+Python                   13 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+Other                    7 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+TypeScript               3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Bash                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-VS Code                  51 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  55 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-omniretrieve             42 hrs 7 mins       ████████████████████░░░░░   81.38 % 
-job_note_shopee          4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-openAgents               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-job_notes                57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-ni                       32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+omniretrieve             45 hrs 34 mins      █████████████████████░░░░   82.85 % 
+job_note_shopee          4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+openAgents               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+job_notes                57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+obsidian                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Mac                      51 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      55 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 3 mins (81.24%)
+⏱ AI Coding Time: 44 hrs 50 mins (81.5%)
 
-✍️ 15,495 lines written by AI, 1,997 lines written by hand (88.58% AI-written)
+✍️ 17,475 lines written by AI, 2,006 lines written by hand (89.7% AI-written)
 
-🔤 242,240,814 Input Tokens, 1,421,431 Output Tokens
+🔤 232,251,964 Input Tokens, 1,512,712 Output Tokens
 
-💵 $614.33 Estimated AI Cost This Week
+💵 $597.33 Estimated AI Cost This Week
 
-🧠 72 AI Sessions, 424 AI Prompts
+🧠 72 AI Sessions, 445 AI Prompts
 
-GPT                      15,661 lines        █████████████████████████   100.00 % 
+GPT                      18,001 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.58% of written lines came from AI
-📝 Concise Prompter — average 478 characters per prompt
+🤖 AI-Driven — 89.7% of written lines came from AI
+📝 Concise Prompter — average 461 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 13.75% of changed lines were hand-edited
+🚀 High AI Trust — 12.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -101,5 +101,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/White1943/White1943/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:13:08 UTC
+ Last Updated on 10/08/2026 19:30:52 UTC
 <!--END_SECTION:waka-->
