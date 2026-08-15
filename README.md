@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-327%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2011%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,51 +42,52 @@ Sunday                   312 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 18 hrs 1 min        █████████░░░░░░░░░░░░░░░░   34.12 % 
-Python                   14 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-Other                    6 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Bash                     5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-TypeScript               5 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Markdown                 17 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   33.85 % 
+Python                   13 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Bash                     6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Other                    6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+TypeScript               5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 
 🔥 Editors: 
-VS Code                  48 hrs 15 mins      ███████████████████████░░   91.33 % 
-Codex CLI                2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Codex Vscode             2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+VS Code                  45 hrs              ██████████████████████░░░   86.62 % 
+Codex Vscode             4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Codex CLI                2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Obsidian                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-omniretrieve             39 hrs 42 mins      ███████████████████░░░░░░   74.69 % 
-whiteyang_reps           4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-job_note_shopee          4 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-job_notes                1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-monorepo-feat-SPMPIE-407554 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+omniretrieve             39 hrs 15 mins      ███████████████████░░░░░░   75.11 % 
+whiteyang_reps           4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+job_note_shopee          4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+job_notes                1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+monorepo-feat-SPMPIE-407557 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Mac                      48 hrs 35 mins      ███████████████████████░░   91.95 % 
-Linux                    4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Mac                      47 hrs 41 mins      ███████████████████████░░   91.81 % 
+Linux                    4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 37 mins (80.65%)
+⏱ AI Coding Time: 41 hrs 43 mins (80.33%)
 
-✍️ 14,077 lines written by AI, 681 lines written by hand (95.39% AI-written)
+✍️ 12,051 lines written by AI, 699 lines written by hand (94.52% AI-written)
 
-🔤 69,513,938 Input Tokens, 1,209,290 Output Tokens
+🔤 31,597,728 Input Tokens, 1,164,473 Output Tokens
 
-💵 $229.85 Estimated AI Cost This Week
+💵 $142.64 Estimated AI Cost This Week
 
-🧠 77 AI Sessions, 466 AI Prompts
+🧠 74 AI Sessions, 466 AI Prompts
 
-GPT                      14,503 lines        █████████████████████████   100.00 % 
+GPT                      12,479 lines        █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.39% of written lines came from AI
-📝 Concise Prompter — average 489 characters per prompt
+🤖 AI-Driven — 94.52% of written lines came from AI
+📄 Detailed Prompter — average 523 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 6.78% of changed lines were hand-edited
+🚀 High AI Trust — 8.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -106,5 +107,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/White1943/White1943/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 19:28:45 UTC
+ Last Updated on 15/08/2026 18:56:47 UTC
 <!--END_SECTION:waka-->
