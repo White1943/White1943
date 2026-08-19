@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C347%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C356%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-339%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-346%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,48 +42,49 @@ Sunday                   312 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 16 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   37.69 % 
-Python                   10 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-TypeScript               6 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Bash                     4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Other                    3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Markdown                 17 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   38.71 % 
+Python                   11 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+TypeScript               6 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Bash                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Other                    2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 42 mins      █████████████████████░░░░   82.55 % 
-Codex Vscode             7 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+VS Code                  32 hrs 40 mins      ██████████████████░░░░░░░   73.94 % 
+Codex Vscode             11 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+Obsidian                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🐱‍💻 Projects: 
-omniretrieve             33 hrs 17 mins      ███████████████████░░░░░░   76.96 % 
-job_note_shopee          6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-monorepo-feat-SPMPIE-40752 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-new-chat                 41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-stand-in-on-leave-on-hold29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+omniretrieve             34 hrs 15 mins      ███████████████████░░░░░░   77.56 % 
+job_note_shopee          5 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+monorepo-feat-SPMPIE-40752 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+new-chat                 41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+obsidian                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Mac                      43 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      44 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 30 mins (75.16%)
+⏱ AI Coding Time: 32 hrs 10 mins (72.83%)
 
-✍️ 8,236 lines written by AI, 641 lines written by hand (92.78% AI-written)
+✍️ 8,784 lines written by AI, 608 lines written by hand (93.53% AI-written)
 
-🔤 13,237,721 Input Tokens, 877,538 Output Tokens
+🔤 15,549,282 Input Tokens, 953,299 Output Tokens
 
-💵 $78.71 Estimated AI Cost This Week
+💵 $87.77 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 331 AI Prompts
+🧠 46 AI Sessions, 327 AI Prompts
 
-GPT                      8,365 lines         █████████████████████████   100.00 % 
+GPT                      9,099 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.78% of written lines came from AI
-📄 Detailed Prompter — average 622 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 11.51% of changed lines were hand-edited
+🤖 AI-Driven — 93.53% of written lines came from AI
+📄 Detailed Prompter — average 551 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 10.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +104,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/White1943/White1943/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:08:04 UTC
+ Last Updated on 19/08/2026 19:03:30 UTC
 <!--END_SECTION:waka-->
