@@ -42,49 +42,48 @@ Sunday                   325 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   24 hrs              ███████████░░░░░░░░░░░░░░   45.43 % 
-Markdown                 9 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Other                    6 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-TypeScript               3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-CSV                      2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Python                   23 hrs 58 mins      ████████████░░░░░░░░░░░░░   46.68 % 
+Markdown                 8 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Other                    6 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+TypeScript               3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+CSV                      2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-Codex Vscode             33 hrs 56 mins      ████████████████░░░░░░░░░   64.23 % 
-VS Code                  18 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   35.56 % 
-Obsidian                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Codex Vscode             32 hrs 56 mins      ████████████████░░░░░░░░░   64.12 % 
+VS Code                  18 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.88 % 
 
 🐱‍💻 Projects: 
-omniretrieve             39 hrs 15 mins      ███████████████████░░░░░░   74.29 % 
-aigc_rti_wf              5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-research-workbench       3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-job_note_shopee          3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-obsidian                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+omniretrieve             38 hrs 31 mins      ███████████████████░░░░░░   75.00 % 
+aigc_rti_wf              5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+research-workbench       3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+job_note_shopee          3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+obsidian                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Mac                      52 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      51 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 59 mins (83.23%)
+⏱ AI Coding Time: 42 hrs 32 mins (82.83%)
 
-✍️ 15,307 lines written by AI, 413 lines written by hand (97.37% AI-written)
+✍️ 14,558 lines written by AI, 413 lines written by hand (97.24% AI-written)
 
-🔤 29,577,844 Input Tokens, 2,272,695 Output Tokens
+🔤 28,119,961 Input Tokens, 2,212,251 Output Tokens
 
-💵 $105.14 Estimated AI Cost This Week
+💵 $96.30 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 452 AI Prompts
+🧠 60 AI Sessions, 437 AI Prompts
 
-GPT                      16,475 lines        █████████████████████████   100.00 % 
+GPT                      15,693 lines        █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.37% of written lines came from AI
-📄 Detailed Prompter — average 708 characters per prompt
+🤖 AI-Driven — 97.24% of written lines came from AI
+📄 Detailed Prompter — average 728 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.55% of changed lines were hand-edited
+🚀 High AI Trust — 3.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -104,5 +103,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/White1943/White1943/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:55:15 UTC
+ Last Updated on 20/09/2026 21:00:17 UTC
 <!--END_SECTION:waka-->
