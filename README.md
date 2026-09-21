@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C547%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C554%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-518%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-526%20hrs%2011%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,48 +42,48 @@ Sunday                   325 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   23 hrs 58 mins      ████████████░░░░░░░░░░░░░   46.68 % 
-Markdown                 8 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Other                    6 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-TypeScript               3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-CSV                      2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Python                   22 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   41.78 % 
+Markdown                 9 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Other                    6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+TypeScript               3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+CSV                      3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 🔥 Editors: 
-Codex Vscode             32 hrs 56 mins      ████████████████░░░░░░░░░   64.12 % 
-VS Code                  18 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.88 % 
+Codex Vscode             35 hrs 48 mins      █████████████████░░░░░░░░   67.78 % 
+VS Code                  17 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   32.22 % 
 
 🐱‍💻 Projects: 
-omniretrieve             38 hrs 31 mins      ███████████████████░░░░░░   75.00 % 
-aigc_rti_wf              5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-research-workbench       3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-job_note_shopee          3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-obsidian                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+omniretrieve             37 hrs 20 mins      ██████████████████░░░░░░░   70.67 % 
+aigc_rti_wf              8 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+job_note_shopee          3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+research-workbench       2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+obsidian                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Mac                      51 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      52 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 32 mins (82.83%)
+⏱ AI Coding Time: 45 hrs 14 mins (85.62%)
 
-✍️ 14,558 lines written by AI, 413 lines written by hand (97.24% AI-written)
+✍️ 12,705 lines written by AI, 355 lines written by hand (97.28% AI-written)
 
-🔤 28,119,961 Input Tokens, 2,212,251 Output Tokens
+🔤 31,296,211 Input Tokens, 2,335,762 Output Tokens
 
-💵 $96.30 Estimated AI Cost This Week
+💵 $91.88 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 437 AI Prompts
+🧠 63 AI Sessions, 497 AI Prompts
 
-GPT                      15,693 lines        █████████████████████████   100.00 % 
+GPT                      13,839 lines        █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.24% of written lines came from AI
-📄 Detailed Prompter — average 728 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.71% of changed lines were hand-edited
+🤖 AI-Driven — 97.28% of written lines came from AI
+📄 Detailed Prompter — average 676 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 3.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +103,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/White1943/White1943/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:00:17 UTC
+ Last Updated on 21/09/2026 22:09:13 UTC
 <!--END_SECTION:waka-->
