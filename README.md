@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C585%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C590%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-551%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-556%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,47 +42,48 @@ Sunday                   325 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 57 mins      ███████████░░░░░░░░░░░░░░   42.82 % 
-Markdown                 8 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-SQL                      2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Bash                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-JSON                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Python                   15 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   41.50 % 
+Markdown                 6 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+SQL                      3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+YAML                     3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+JSON                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🔥 Editors: 
-Codex Vscode             23 hrs 41 mins      ███████████████░░░░░░░░░░   59.80 % 
-VS Code                  15 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   40.20 % 
+Codex Vscode             22 hrs 6 mins       ███████████████░░░░░░░░░░   59.73 % 
+VS Code                  14 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   40.27 % 
 
 🐱‍💻 Projects: 
-omniretrieve             31 hrs 38 mins      ████████████████████░░░░░   79.88 % 
-aigc_rti_wf              6 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-job_note_shopee          1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-omniretrieve-embedding-ev7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+omniretrieve             32 hrs 31 mins      ██████████████████████░░░   87.88 % 
+aigc_rti_wf              3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+job_note_shopee          1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+omniretrieve-embedding-ev7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      39 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 27 mins (81.93%)
+⏱ AI Coding Time: 30 hrs 11 mins (81.56%)
 
-✍️ 10,897 lines written by AI, 561 lines written by hand (95.1% AI-written)
+✍️ 9,723 lines written by AI, 658 lines written by hand (93.66% AI-written)
 
-🔤 22,766,254 Input Tokens, 1,875,071 Output Tokens
+🔤 21,215,553 Input Tokens, 1,753,603 Output Tokens
 
-💵 $185.56 Estimated AI Cost This Week
+💵 $274.63 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 330 AI Prompts
+🧠 32 AI Sessions, 292 AI Prompts
 
-GPT                      11,327 lines        █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      10,081 lines        █████████████████████████   98.17 % 
+Deepseek                 188 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.1% of written lines came from AI
-📄 Detailed Prompter — average 751 characters per prompt
+🤖 AI-Driven — 93.66% of written lines came from AI
+📄 Detailed Prompter — average 791 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 5.21% of changed lines were hand-edited
+🚀 High AI Trust — 6.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -102,5 +103,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/White1943/White1943/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:33:23 UTC
+ Last Updated on 28/09/2026 23:27:57 UTC
 <!--END_SECTION:waka-->
