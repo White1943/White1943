@@ -42,39 +42,39 @@ Sunday                   325 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-Markdown                 8 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-YAML                     6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-JSON                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-TypeScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Python                   7 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Markdown                 7 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+YAML                     5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+JSON                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+TypeScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🔥 Editors: 
-Codex Vscode             16 hrs 51 mins      ██████████████░░░░░░░░░░░   54.53 % 
-VS Code                  12 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   40.73 % 
-Codex CLI                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-PyCharm                  35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Codex Vscode             15 hrs 20 mins      ██████████████░░░░░░░░░░░   54.29 % 
+VS Code                  11 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.52 % 
+Codex CLI                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+PyCharm                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🐱‍💻 Projects: 
-omniretrieve             29 hrs 20 mins      ████████████████████████░   94.90 % 
-job_note_shopee          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-LightEditProject         34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+omniretrieve             26 hrs 40 mins      ████████████████████████░   94.42 % 
+job_note_shopee          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+LightEditProject         34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Mac                      30 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 55 mins (67.67%)
+⏱ AI Coding Time: 19 hrs 14 mins (68.09%)
 
 ✍️ 5,934 lines written by AI, 485 lines written by hand (92.44% AI-written)
 
-🔤 12,355,298 Input Tokens, 1,377,473 Output Tokens
+🔤 11,644,948 Input Tokens, 1,325,089 Output Tokens
 
-💵 $77.36 Estimated AI Cost This Week
+💵 $76.97 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 244 AI Prompts
+🧠 27 AI Sessions, 235 AI Prompts
 
 GPT                      5,282 lines         █████████████████████░░░░   84.61 % 
 Deepseek                 961 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
@@ -82,9 +82,9 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 92.44% of written lines came from AI
-📄 Detailed Prompter — average 564 characters per prompt
+📄 Detailed Prompter — average 539 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 8.07% of changed lines were hand-edited
+🚀 High AI Trust — 8.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -104,5 +104,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/White1943/White1943/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:27:30 UTC
+ Last Updated on 03/10/2026 21:37:40 UTC
 <!--END_SECTION:waka-->
