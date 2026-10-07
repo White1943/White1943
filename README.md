@@ -7,7 +7,7 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 208 Contributions in the Year 2026
+> 🏆 209 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,18 +18,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                848 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-🌆 Daytime                1684 commits        ████████████░░░░░░░░░░░░░   47.84 % 
-🌃 Evening                839 commits         ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+🌞 Morning                848 commits         ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+🌆 Daytime                1685 commits        ████████████░░░░░░░░░░░░░   47.86 % 
+🌃 Evening                839 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
 🌙 Night                  149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   713 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Monday                   713 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
 Tuesday                  607 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Wednesday                566 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Thursday                 644 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Wednesday                567 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Thursday                 644 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
 Friday                   503 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 Sunday                   325 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
@@ -42,53 +42,53 @@ Sunday                   325 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.86 % 
-Python                   5 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
-TypeScript               1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Markdown                 4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.36 % 
+Python                   2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+YAML                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+TypeScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-VS Code                  10 hrs              ██████████████░░░░░░░░░░░   54.71 % 
-Codex Vscode             6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
-Codex CLI                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-PyCharm                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Obsidian                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+VS Code                  8 hrs 8 mins        ███████████████████░░░░░░   74.82 % 
+Codex Vscode             2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Obsidian                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Visual                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-omniretrieve             13 hrs 22 mins      ██████████████████░░░░░░░   73.05 % 
-obsidian                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-openAgents               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-job_note_shopee          59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-LightEditProject         34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+omniretrieve             7 hrs 8 mins        ████████████████░░░░░░░░░   65.63 % 
+obsidian                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+openAgents               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+research-workbench       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+job_note_shopee          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-Mac                      18 hrs 2 mins       █████████████████████████   98.57 % 
-Linux                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Mac                      10 hrs 36 mins      ████████████████████████░   97.59 % 
+Linux                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 9 mins (44.55%)
+⏱ AI Coding Time: 2 hrs 49 mins (25.99%)
 
-✍️ 3,682 lines written by AI, 788 lines written by hand (82.37% AI-written)
+✍️ 588 lines written by AI, 749 lines written by hand (43.98% AI-written)
 
-🔤 4,617,737 Input Tokens, 498,833 Output Tokens
+🔤 1,653,841 Input Tokens, 200,008 Output Tokens
 
-💵 $32.15 Estimated AI Cost This Week
+💵 $3.82 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 118 AI Prompts
+🧠 6 AI Sessions, 40 AI Prompts
 
-GPT                      3,031 lines         ████████████████████░░░░░   79.68 % 
-DeepSeek                 773 lines           █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+GPT                      555 lines           ███████████████████████░░   93.75 % 
+DeepSeek                 37 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.37% of written lines came from AI
-📄 Detailed Prompter — average 565 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 18.75% of changed lines were hand-edited
+⚖️ Balanced with AI — 43.98% of written lines came from AI
+📝 Concise Prompter — average 408 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 58.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +108,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/White1943/White1943/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:46:35 UTC
+ Last Updated on 07/10/2026 23:16:39 UTC
 <!--END_SECTION:waka-->
